@@ -1,0 +1,15 @@
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/bin/Debug/net6.0/Hometask2
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/bin/Debug/net6.0/Hometask2.deps.json
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/bin/Debug/net6.0/Hometask2.runtimeconfig.json
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/bin/Debug/net6.0/Hometask2.dll
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/bin/Debug/net6.0/Hometask2.pdb
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.csproj.AssemblyReference.cache
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.AssemblyInfoInputs.cache
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.AssemblyInfo.cs
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.csproj.CoreCompileInputs.cache
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.dll
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/refint/Hometask2.dll
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.pdb
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/Hometask2.genruntimeconfig.cache
+/Users/Valery/Desktop/HomeTask4/Hometask04/Hometask2/obj/Debug/net6.0/ref/Hometask2.dll
